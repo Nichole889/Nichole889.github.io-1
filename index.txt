@@ -1,4 +1,4 @@
-vCard - Personal Portfolio
+Nichole - Personal Portfolio
 
 # sidebar
 
@@ -12,7 +12,7 @@ Email
 1230018951@student.must.edu.mo
 
 Phone
-+1 (213) 352-2795
++853 68048877
 
 Birthday
 April 27, 2005
