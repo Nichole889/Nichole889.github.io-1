@@ -3,7 +3,7 @@ Nichole - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
+Nichole
 Web developer
 
 Show Contacts
